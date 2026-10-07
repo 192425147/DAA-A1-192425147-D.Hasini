@@ -1,0 +1,7 @@
+design,prep_s,search_total_s_for_50000,per_search_us,memory_mb
+Linear (projected),0,575.9542,11519.084,0
+Binary,0.1751,0.1811,3.621,12.0
+Hash,1.1903,0.0339,0.677,152.6
+nightly_resort_s,0.1950,,,
+nightly_merge_s,0.1144,,,
+nightly_hash_rebuild_s,1.0266,,,
